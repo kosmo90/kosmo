@@ -1,0 +1,3 @@
+server jndi setup rule
+
+name
